@@ -1,4 +1,4 @@
-# AppoloGameFi
-Appolo GameFi
+# ApolloGameFi
+Apollo GameFi
 
 Coming Soon
